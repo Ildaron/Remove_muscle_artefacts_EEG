@@ -1,4 +1,4 @@
-# Remove_muscle_artefacts_EEG-readme.txt
+# Remove muscle artefacts EEG
 
 # Introduction
 This repository contains the implementation of a novel method for effectively removing artifacts from EEG signals. The approach combines the Empirical Mode Decomposition (EMD) method with a machine learning architecture to overcome the limitations of existing artifact removal techniques.  
